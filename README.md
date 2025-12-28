@@ -24,13 +24,20 @@ The dataset includes detailed call information such as call topic, whether the c
 - **Average Talk Duration**: Duration of the call  
 - **Satisfaction Rating**: Customer satisfaction score (scale: 1-5) after the call
 
-# Key KPIs & Results
+# Key KPIs & Insight 
 - Customer Satisfaction
 - Call resolved %
 - Call Adandoned %
 - Speed of call answer
 - Average Call Handling Time
-
-# Dashboard
+## Insights
+- **Overall Performance**
+  From January 2021 to March 2021, overall customer satisfaction declined steadily. The underlying cause cannot be determined from the current dataset and requires further analysis. However, this decline is unlikely to be driven by increased call volume, as the total number of calls decreased over the same period.
+- **Customer Behaviour Perspective**
+  Customers tend to call more frequently on Mondays and Saturdays. On a typical day, there are three peak call hours: 11:00 AM, 1:00PM, and 5:00 PM. Call reasons are relatively evenly distributed across the five main categories and over 85% of calls are successfully resolved regardless of call topics.
+  However, it is noticeable that the overall call centre adandoned call rate remains relatively stable at around 19% over time. This indicates that approximately one in five customer calls are not successfully handled each month. To address the consistently high call abandonment rate, it is recommended to hire one additional agent.
+- **Agent Performance Perspective**
+  Generally, all staff shows good quality of services, but Joe shows a delinced in total calls and 
+ # Dashboard
 Below is a snapshot of the Power BI dashboard developed for this project:
 ![Call Centre Dashboard](Call_Centre_Screenshot.png)
