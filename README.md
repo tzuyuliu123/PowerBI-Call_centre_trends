@@ -8,7 +8,7 @@ to help management optimize staffing decisions and improve call centre efficienc
 According to the report manager, Claire, this dashbaord should include following information:
 - Identify customer and agent behavior performance
 - Summary overall performance of call centre to management
-
+Detail requirements and analysis can be found in [PwC case 2 business requirements.pdf](https://github.com/tzuyuliu123/PowerBI-Call_centre_trends/blob/main/PwC%20case%202%20business%20requirements.pdf)
 # Dataset
 The dataset is provided from Pwc Switzerland Power Bi Job Simulation on Forage (Task 2). 
 It contains 5000 rows and 9 columns, where each row represent a single customer call. 
@@ -32,4 +32,5 @@ The dataset includes detailed call information such as call topic, whether the c
 - Average Call Handling Time
 
 # Dashboard
-
+Below is a snapshot of the Power BI dashboard developed for this project:
+![Call Centre Dashboard](Call_Centre_Screenshot.png)
