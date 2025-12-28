@@ -37,10 +37,15 @@ The dataset includes detailed call information such as call topic, whether the c
 - **Customer Behaviour Perspective**
 
   Customers tend to call more frequently on Mondays and Saturdays. On a typical day, there are three peak call hours: 11:00 AM, 1:00PM, and 5:00 PM. Call reasons are relatively evenly distributed across the five main categories and over 85% of calls are successfully resolved regardless of call topics.
-  However, it is noticeable that the overall call centre adandoned call rate remains relatively stable at around 19% over time. This indicates that approximately one in five customer calls are not successfully handled each month. To address the consistently high call abandonment rate, it is recommended to hire one additional agent.
+  However, it is noticeable that the overall call centre adandoned call rate remains relatively stable at around 19% over time. This indicates that approximately one in five customer calls are not successfully handled each month. 
+  If decreasing the number of not answered calls aligns with current organisational objectives, it is recommended to hire one more phone staff. 
 - **Agent Performance Perspective**
-  
-  Generally, all staff shows good quality of services, but Joe shows a delinced in total calls and 
+
+Overall, agent performance remains strong, with all staff delivering a high standard of service.
+The top five agents by customer satisfaction are Martha, Dan, Diane, Greg, and Jim.
+Notably, calls related to streaming issues have the lowest resolution rate among all call topics.
+This suggests an opportunity to improve service quality by enhancing agent training or allocating
+additional resources to support streaming-related inquiries.
  # Dashboard
 Below is a snapshot of the Power BI dashboard developed for this project:
 ![Call Centre Dashboard](Call_Centre_Screenshot.png)
